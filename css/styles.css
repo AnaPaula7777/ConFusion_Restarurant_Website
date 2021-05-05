@@ -38,11 +38,6 @@ body {
     background: #512DA8;
 }
 
-.reserve {
-    margin: 25px 0px 25px 0px;
-    padding: 0px;
-}
-
 .tab-content {
     border-left: 1px solid #ddd;
     border-right: 1px solid #ddd;
@@ -63,4 +58,13 @@ body {
     top: 0;
     left: 0;
     min-height: 300px;
+}
+
+.modal-content {
+    color: black;
+}
+
+.cancel {
+    background-color: #646363;
+    color: white;
 }
