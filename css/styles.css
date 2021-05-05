@@ -37,3 +37,8 @@ body {
 .navbar-dark {
     background: #512DA8;
 }
+
+.reserve {
+    margin: 25px 0px 25px 0px;
+    padding: 0px;
+}
